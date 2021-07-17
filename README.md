@@ -5,4 +5,4 @@ Updates the process outlined [in this blog](https://www.azavea.com/blog/2019/05/
 Data can be downloaded with the repo to run locally or automatically if using the Colab version.  
 
 # View Results
-Mapped output [is viewable here](https://cdrowley.github.io/life-expectancy-contrasts/output.html).
+Mapped output [is viewable here](https://cdrowley.github.io/life-expectancy-contrasts/data/output.html).
